@@ -14,5 +14,5 @@ pipenv install
 
 Once dependencies are built, you can run any example. Below is an example run:
 ```bash
-python autoencoder.py
+python models/autoencoder.py
 ```
